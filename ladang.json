@@ -1,0 +1,14 @@
+{
+    "data":{
+        "id_ladang":"1",
+        "nama_ladang": "",
+        "Luas_ladanag":"",
+        "jumlah_tumbuhan":"",
+        "komoditas":{
+            "id":"",
+            "nama":"",
+            "umur_panen":""
+        },
+        "isActive":true
+    }
+}

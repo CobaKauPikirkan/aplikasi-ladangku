@@ -1,0 +1,14 @@
+{
+    "data":{
+        "date":"11.januar",
+        "todolist":[
+            {
+                "name":"",
+                "isCheck":false
+            },
+            {
+
+            }
+        ]
+    }
+}
